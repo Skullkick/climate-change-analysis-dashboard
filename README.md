@@ -76,4 +76,8 @@ docker run -p 8080:80 climate-analysis-dashboard
 Access the dashboard at `http://localhost:8080`.
 
 
+## **Contributors**
+- [Alluri Varun Reddy](https://github.com/varun240s)
+- [K. Keerthi Sathvik](https://github.com/Skullkick)
+
 
