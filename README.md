@@ -70,8 +70,8 @@ Open `frontend/index.html` in a web browser to visualize the results.
 ## Deployment (Docker)
 To run the dashboard in a container:
 ```bash
-docker build -t climate-dashboard .
-docker run -p 8080:80 climate-dashboard
+docker pull ghcr.io/skullkick/climate-analysis-dashboard:latest
+docker run -p 8080:80 climate-analysis-dashboard
 ```
 Access the dashboard at `http://localhost:8080`.
 
